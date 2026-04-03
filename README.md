@@ -10,13 +10,8 @@
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
 </div>
 
-Also check out these two cool projects:
-1. [claude_agent_teams_ui](https://github.com/muhammadhaseebiqbal-dev/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
-2. [claude-notifications-go](https://github.com/muhammadhaseebiqbal-dev/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
 
-   
-
-> The raw imported snapshot is preserved in this repository's [`backup` branch](https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code/tree/backup). The `main` branch contains added documentation, tooling, and repository metadata.
+> The raw imported snapshot is preserved in this repository's [`backup` branch](https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code/tree/backup). The `main` branch contains added documentation, tooling, and repository metadata.
 
 
 
@@ -129,7 +124,7 @@ claude mcp add claude-code-explorer -- npx -y claude-code-explorer-mcp
 ### One-liner setup (from source)
 
 ```bash
-git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code.git ~/claude-code-source-code \
+git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code.git ~/claude-code-source-code \
   && cd ~/claude-code-source-code/mcp-server \
   && npm install && npm run build \
   && claude mcp add claude-code-explorer -- node ~/claude-code-source-code/mcp-server/dist/index.js
@@ -140,7 +135,7 @@ git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code.git
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code.git
+git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code.git
 cd claude-code-source-code/mcp-server
 
 # 2. Install & build

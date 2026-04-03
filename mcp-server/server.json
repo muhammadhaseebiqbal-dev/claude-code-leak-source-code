@@ -4,7 +4,7 @@
   "title": "Claude Code Explorer MCP",
   "description": "Explore the Claude Code CLI source — browse tools, commands, search code, and more.",
   "repository": {
-    "url": "https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code",
+    "url": "https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code",
     "source": "github",
     "subfolder": "mcp-server"
   },

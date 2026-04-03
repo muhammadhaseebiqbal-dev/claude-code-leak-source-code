@@ -17,7 +17,7 @@ This repo archives a source snapshot of Anthropic's Claude Code CLI together wit
 ## What Not to Change
 
 - **`src/` directory** — This is the archived source snapshot and should generally remain unchanged.
-- The [`backup` branch](https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code/tree/backup) contains the raw imported snapshot.
+- The [`backup` branch](https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code/tree/backup) contains the raw imported snapshot.
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ This repo archives a source snapshot of Anthropic's Claude Code CLI together wit
 ### Setup
 
 ```bash
-git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-source-code.git
+git clone https://github.com/muhammadhaseebiqbal-dev/claude-code-leak-source-code.git
 cd claude-code-source-code
 ```
 
